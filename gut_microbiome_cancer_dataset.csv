@@ -1,0 +1,20 @@
+SampleID,Group,Cancer Stage,Treatment Status,Treatment Response,Bacteroides,Fusobacteria,Proteobacteria,Alpha Diversity,Age,Gender
+1,Cancer,III,Chemo,Sensitive,34,16,31,44,29,F
+2,Healthy,I,Chemo,Resistant,13,8,6,51,36,F
+3,Healthy,II,Chemo,Partial,25,29,39,52,40,M
+4,Cancer,IV,Immunotherapy,Sensitive,24,28,21,26,50,F
+5,Cancer,II,Immunotherapy,Resistant,51,17,14,21,50,M
+6,Cancer,III,Chemo,Partial,52,26,35,27,72,M
+7,Cancer,IV,Immunotherapy,Sensitive,18,6,31,33,45,F
+8,Healthy,I,Chemo,Partial,69,9,38,41,63,M
+9,Cancer,II,Chemo,Sensitive,26,21,16,40,60,F
+10,Healthy,III,Immunotherapy,Partial,68,25,24,40,57,F
+11,Cancer,II,Immunotherapy,Sensitive,34,25,25,44,54,M
+12,Healthy,III,Chemo,Sensitive,12,12,39,44,61,M
+13,Healthy,IV,Immunotherapy,Resistant,30,26,7,51,47,F
+14,Cancer,I,Chemo,Sensitive,48,25,15,24,34,M
+15,Cancer,I,Chemo,Resistant,50,28,11,30,78,M
+16,Cancer,I,Immunotherapy,Partial,41,23,14,37,29,M
+17,Cancer,IV,Chemo,Resistant,36,20,22,23,60,F
+18,Cancer,III,Immunotherapy,Partial,43,17,18,23,58,F
+19,Cancer,I,Immunotherapy,Sensitive,45,11,18,44,76,M
