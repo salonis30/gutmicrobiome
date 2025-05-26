@@ -3,7 +3,7 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-logistic regression
-random forest
+logisticregression
+randomforest
 xgboost
 
