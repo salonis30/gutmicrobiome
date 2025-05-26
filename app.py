@@ -19,7 +19,7 @@ page = st.sidebar.radio("Select Page", ["Static Data Visualization", "Model Eval
 # Static CSV Path
 STATIC_CSV_PATH = "gut_microbiome_cancer_dataset.csv"
 
-st.title("The Role of the Gut Microbiome in Cancer Progression and Treatment Resistance")
+st.title("Gut Microbiome Signatures in Cancer: A Machine Learning Approach")
 
 if page == "Static Data Visualization":
     st.header("Static Data Visualization")
